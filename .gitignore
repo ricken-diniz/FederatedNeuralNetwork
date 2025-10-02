@@ -5,3 +5,4 @@ FederatedCentral/static_model.pt
 FederatedCentral/federated_model.pt
 FederatedCentral/__pycache__/
 FederatedCentral/nn/__pycache__/
+FederatedTrain/data/
