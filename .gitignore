@@ -1,0 +1,7 @@
+venv
+FederatedTrain/static_model.pt
+FederatedTrain/__pycache__/
+FederatedCentral/static_model.pt
+FederatedCentral/federated_model.pt
+FederatedCentral/__pycache__/
+FederatedCentral/nn/__pycache__/
